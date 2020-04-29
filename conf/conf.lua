@@ -8,8 +8,8 @@ end
 
 
 
-_M.md5FilterColumns = {
-	"token",
+_M.signFilterColumns = {
+	"sgin",
 	"t"
 }
 
